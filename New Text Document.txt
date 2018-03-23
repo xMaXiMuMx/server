@@ -1,0 +1,11 @@
+เข้าที่อยู่ไฟล์	==>	node ชื่อไฟล์.js
+
+ติดตั้ง	npm install express	เรียกไฟล์ใหม่
+
+ถ้าแก้ไขไฟล์เพิ่ม	npm -g install nodemon
+
+ถ้าไม่ได้ให้	set PATH=%PATH%;C:\Users\5835512032\AppData\Roaming\npm
+
+npm install express body-parser
+
+
